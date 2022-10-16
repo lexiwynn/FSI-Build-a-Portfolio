@@ -8,21 +8,26 @@ img {
 h1 { 
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:rgb(79, 50, 110);
 }
 h2 {
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:rgb(79, 50, 110);
 }
 h3 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(79, 50, 110);
 }
 p {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: rgb(218, 199, 239);
+    color:rgb(79, 50, 110);
 }
 li {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: medium;
+    color:rgb(79, 50, 110);
 
 }
 .center {
@@ -31,4 +36,3 @@ li {
     margin-left: auto;
     margin-right: auto;
 }
-.pointer {cursor: pointer}
