@@ -28,7 +28,9 @@ li {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: medium;
     color:rgb(79, 50, 110);
-
+div {
+    cursor:pointer;
+}
 }
 .center {
     text-align: center;
